@@ -1,4 +1,4 @@
-## Diana Nathaly 👋
+## Diana Nathaly ALtamirano D. 👋
 
 
 - 🔭 I’m currently working on free lancer
