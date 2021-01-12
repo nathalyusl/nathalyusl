@@ -1,7 +1,7 @@
-## Diana Nathaly ALtamirano D. 👋
+## Diana Nathaly Altamirano D. 👋
 
 
-- 🔭 I’m currently working on free lancer
+- 🔭 I’m currently working on freelancer
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with R statistics
