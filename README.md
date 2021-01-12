@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on free lancer
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate on AI
