@@ -1,17 +1,17 @@
-# Hey there 👋
+# Hello! I'm Diana Nathaly👋
 </a>
 <a href="https://linkedin.com/in/diana-altamirano-usl">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/nathalyusl">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-<br />}
+<br />
 
-Hello! I am Diana, I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
+Welcome to my profile! I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="220" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="220" />
  
- *Personal fact*
+### *Personal fact*
 
 - 🔭 I’m currently working on freelancer :penguin:
 - 🌱 I’m currently learning data science 
