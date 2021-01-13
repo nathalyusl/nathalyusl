@@ -10,7 +10,7 @@
 
 <br />
 
-Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data scientist :computer:, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
+Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data scientist :computer:, any help is appreciated. I graduated in foreign trade :airplane: and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
 
  #### *Personal fact* :thought_balloon:
  
