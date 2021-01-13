@@ -36,8 +36,6 @@ My country is located :round_pushpin: in Latin America also known as "Middle of 
 
 <br />
 
-<br />
-
 #### 📊 **Actually I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
