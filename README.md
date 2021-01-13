@@ -12,8 +12,8 @@
 
 Welcome to my profile! I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
 
-
  #### *Personal fact*
+ 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="230" />
 
 - 🔭 I’m currently working on freelancer :penguin:
@@ -26,6 +26,7 @@ Welcome to my profile! I am from Ecuador, currently studying to become a data sc
 #### *Curious fact*
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
+ 
  
 My country is located in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate.
 
