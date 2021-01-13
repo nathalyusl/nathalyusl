@@ -29,3 +29,15 @@ Welcome to my profile! I am from Ecuador, currently studying to become a data sc
  
 My country is located in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate.
 
+📊 **Actually I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python     4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+R          1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Coursera   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+SQL        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Dance      1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+```
+<!--END_SECTION:waka-->
+
+
