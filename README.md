@@ -5,9 +5,10 @@
 </a>
 <a href="https://open.spotify.com/user/nathalyusl">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-<br />
-Welcome to my profile! I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
 
+##### Welcome to my profile! I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
+
+<br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="230" />
  
 ### *Personal fact*
