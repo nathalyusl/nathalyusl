@@ -8,6 +8,7 @@
 
 <br />
 
+
 Welcome to my profile! I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
 
 
