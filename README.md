@@ -8,7 +8,6 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
 <br />
-
 Hello! I am Diana, I am from Ecuador, currently studying to become a data scientist, any help is appreciated. I graduated in foreign trade and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="220" />
@@ -21,7 +20,7 @@ Hello! I am Diana, I am from Ecuador, currently studying to become a data scient
 - ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance, sing and I'm learning to play the guitar, which is a big challenge because I have small hands and sometimes I don't advance the chords.
 
 <br />
-Curious fact
+### Curious fact
 
  <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="480" height="270" />
  
