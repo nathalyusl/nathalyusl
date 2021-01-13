@@ -29,6 +29,8 @@ Welcome to my profile! I am from Ecuador, currently studying to become a data sc
  
 My country is located in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate.
 
+<br />
+
 #### 📊 **Actually I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
