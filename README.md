@@ -21,14 +21,14 @@ Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with R statistics
 - 💬 Ask me about cats
-- ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance :woman_dancing:, sing and I'm learning to play the guitar :guitar:, which is a big challenge because I have small hands and sometimes I don't advance the chords.
+- ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance :woman_dancing:, sing and I'm learning to play the guitar :guitar:, which is a big challenge because I have small hands :love_you_gesture: and sometimes I don't advance the chords.
 
 #### *Curious fact* :mag_right:
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
  
  
-My country is located :round_pushpin: in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate.
+My country is located :round_pushpin: in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast :beach_umbrella:, Sierra :mountain_snow:, Oriente :monkey: and Insular Region (Galapagos Islands :turtle: "Darwin"), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate :cherry_blossom:.
 
 <br />
 
