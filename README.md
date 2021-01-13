@@ -1,4 +1,3 @@
-<img align="central">
 ## Diana Nathaly Altamirano D. 👋
 
 </a>
