@@ -22,6 +22,8 @@ Hello! I am Diana, I am from Ecuador, currently studying to become a data scient
 
 <br />
 Curious fact
-My country is located in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed heart_eyes with all its culture, architecture, flora , fauna and without a doubt its climate.
 
  <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="480" height="270" />
+ 
+My country is located in Latin America also known as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast, Sierra, Oriente and Insular Region (Galapagos Islands), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate.
+
