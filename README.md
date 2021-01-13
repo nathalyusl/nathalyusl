@@ -20,6 +20,7 @@ Hello! I am Diana, I am from Ecuador, currently studying to become a data scient
 - ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance, sing and I'm learning to play the guitar, which is a big challenge because I have small hands and sometimes I don't advance the chords.
 
 <br />
+
 ### Curious fact
 
  <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="480" height="270" />
