@@ -36,6 +36,7 @@ My country is located :round_pushpin: in Latin America also known as "Middle of 
 
 <br />
 
+
 #### **Actually I Spent My Time On** 📊 
 <!--START_SECTION:waka-->
 ```text
@@ -52,4 +53,5 @@ Dance      1 hr 17 mins    ▓███░░░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="<div>Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>"></code>
+
+
