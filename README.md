@@ -47,4 +47,8 @@ Dance      1 hr 17 mins    ▓███░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+#### **Languages and Tools:**  
 
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
