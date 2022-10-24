@@ -42,7 +42,7 @@ My country is located :round_pushpin: in Latin America into knowing as "Middle o
 Python     4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
 R          1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 Coursera   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-SQL        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+C++        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 Dance      1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 <!--END_SECTION:waka-->
