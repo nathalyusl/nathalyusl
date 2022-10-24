@@ -3,7 +3,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/nathalyusl">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://dribbble.com/shots/2720859-70-Flat-Social-Icons-for-Sketch-Updated" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="http://www.w3.org/2000/svg" />
 </a>
 
 <br />
