@@ -10,16 +10,15 @@
 
 <br />
 
-Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data scientist :woman_technologist:, any help is appreciated. I graduated in Foreign Trade :airplane: and the idea is to combine these two disciplines. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
+Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data scientist :woman_technologist:, any help is appreciated. I graduated in Foreign Trade :airplane:. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
 
  #### *Personal fact* :thought_balloon:
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="200" />
 
-- 🔭 I’m currently working on freelancer :penguin:
-- 🌱 I’m currently learning data science 
+- 🔭 I am working making books have a second life through amazon 📖:
+- 🌱 I’m currently learning data science and english
 - 👯 I’m looking to collaborate on AI
-- 🤔 I’m looking for help with R statistics
 - 💬 Ask me about cats
 - ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance :woman_dancing:, sing and I'm learning to play the guitar :guitar:, which is a big challenge because I have small hands :love_you_gesture: and sometimes I cannot handle some notes.
 
@@ -39,11 +38,11 @@ My country is located :round_pushpin: in Latin America into knowing as "Middle o
 #### **Actually I Spent My Time On** 📊 
 <!--START_SECTION:waka-->
 ```text
-Python     4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-HTML       1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-CSS        1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-C++        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Dance      1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Python        4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+Data Science  1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Brilliant     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+C++           34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Dance         1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 <!--END_SECTION:waka-->
 
