@@ -16,7 +16,7 @@ Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="200" />
 
-- 🔭 I am working making books have a second life through amazon 📖:
+- 🔭 My bussiness is in charge of giving books a second life using amazon plataform 📖:
 - 🌱 I’m currently learning data science and english
 - 👯 I’m looking to collaborate on AI
 - 💬 Ask me about cats
