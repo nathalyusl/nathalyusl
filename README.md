@@ -10,7 +10,7 @@
 
 <br />
 
-Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data scientist :woman_technologist:, any help is appreciated. I graduated in Foreign Trade :airplane:. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
+Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data analyst :woman_technologist:, any help is appreciated. I graduated in Foreign Trade :airplane:. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
 
  #### *Personal fact* :thought_balloon:
  
@@ -39,9 +39,9 @@ My country is located :round_pushpin: in Latin America into knowing as "Middle o
 <!--START_SECTION:waka-->
 ```text
 Python        4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-Data Science  1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Brilliant     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-C++           34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Power BI      1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Tableu        1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+SQL           34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 Dance         1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 <!--END_SECTION:waka-->
