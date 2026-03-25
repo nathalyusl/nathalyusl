@@ -22,10 +22,15 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 - 🎵 I enjoy music and dance as forms of expression. 
 #### *Curious fact* :mag_right:
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
- 
- 
-My country is located :round_pushpin: in Latin America into knowing as "Middle of the World" latitude 0º 0 ′ 0 ″. Ecuador is very diverse since it has 4 natural regions: Coast :beach_umbrella:, Sierra :mountain_snow:, Oriente :monkey: and Insular Region (Galapagos Islands :turtle: "Darwin"), the magic of here is that in 48 hours you could visit all the regions, and be charmed :heart_eyes: with all its culture, architecture, flora , fauna and without a doubt its climate :cherry_blossom:.
+#### Where I'm From 🇪🇨
+
+<img align="left" alt="Ecuador" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
+
+Ecuador 🇪🇨 — latitude 0° 0′ 0″ — known as the Middle of the World and one of the most biodiverse places on Earth.
+
+A small country with extraordinary natural and cultural diversity.
+
+<br clear="left"/>
 
 <br />
 
