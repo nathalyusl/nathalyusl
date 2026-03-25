@@ -34,9 +34,15 @@ SQL                    ▰▰▰▱▱▱▱▱▱▱   30%
 Python                 ▰▰▰▰▱▱▱▱▱▱   40%  
 Visualization          ▰▰▰▱▱▱▱▱▱▱   30%  
 Business Thinking      ▰▰▰▰▰▰▱▱▱▱   60%  
-
+```
 #### **Languages and Tools** :gear:
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/sql.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/microsoft-excel-2019.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/power-bi.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/tableau-software.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/git.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/pycharm.png"></code>
 
 
