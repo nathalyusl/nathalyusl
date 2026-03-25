@@ -9,7 +9,7 @@
 
 <br />
 
-Welcome to my profile! I am from Ecuador :ecuador:, currently studying to become a data analyst :woman_technologist:, any help is appreciated. I graduated in Foreign Trade :airplane:. I am interested in image recognition, if we are on the same tune I like to connect :sparkles:.
+Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently based in the United States 🇺🇸. I am an aspiring Data Analyst and a woman passionate about technology and data 👩‍💻. I have a background in Foreign Trade ✈️ and I am currently developing my skills in data analytics. I’m especially interested in discovering patterns, finding meaningful insights, and understanding how data can support better decision-making. If we share similar interests, I would love to connect ✨.
 
  #### *Personal fact* :thought_balloon:
  
