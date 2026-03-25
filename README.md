@@ -25,18 +25,15 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 
 <br />
 
-<br />
+#### **Technical Competency Tracker** 📊 
 
-#### **Actually I Spent My Time On** 📊 
-<!--START_SECTION:waka-->
 ```text
-Python        4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-Power BI      1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Tableu        1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-SQL           34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Excel         1 hr 17 mins    ▓███░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-```
-<!--END_SECTION:waka-->
+Data Cleaning          ▰▰▰▰▰▱▱▱▱▱   50%  
+Data Analysis          ▰▰▰▰▱▱▱▱▱▱   40%  
+SQL                    ▰▰▰▱▱▱▱▱▱▱   30%  
+Python                 ▰▰▰▰▱▱▱▱▱▱   40%  
+Visualization          ▰▰▰▱▱▱▱▱▱▱   30%  
+Business Thinking      ▰▰▰▰▰▰▱▱▱▱   60%  
 
 #### **Languages and Tools** :gear:
 
