@@ -11,16 +11,15 @@
 
 Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently based in the United States 🇺🇸. I am an aspiring Data Analyst and a woman passionate about technology and data 👩‍💻. I have a background in Foreign Trade ✈️ and I am currently developing my skills in data analytics. I’m especially interested in discovering patterns, finding meaningful insights, and understanding how data can support better decision-making. If we share similar interests, I would love to connect ✨.
 
- #### *Personal fact* :thought_balloon:
- 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="200" />
+#### *Personal facts* 💭
 
-- 🔭 My bussiness is in charge of giving books a second life using amazon plataform 📖.
-- 🌱 I’m currently learning data science and english
-- 👯 I’m looking to collaborate on AI
-- 💬 Ask me about cats
-- ⚡ Fun fact: I love nature :snowflake:, a lover of animals, especially dogs and cats. In my free time I practice contemporary dance :woman_dancing:, sing and I'm learning to play the guitar :guitar:, which is a big challenge because I have small hands :love_you_gesture: and sometimes I cannot handle some notes.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="200" />
 
+- 📚 I run a small business focused on giving books a second life through the Amazon & E-bay platform.
+- 🌱 Currently learning data analytics and improving my technical English.
+- 🤖 Interested in AI and data-driven technologies.
+- 🐱  I love cats and dogs, enjoy spending time around animals, and appreciate nature 🌿. 
+- 🎵 I enjoy music and dance as forms of expression. 
 #### *Curious fact* :mag_right:
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
