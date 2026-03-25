@@ -23,8 +23,6 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 
 <br />
 
-<br />
-
 #### **Technical Competency Tracker** 📊 
 
 ```text
