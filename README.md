@@ -20,17 +20,6 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 - 🤖 Interested in AI and data-driven technologies.
 - 🐱  I love cats and dogs, enjoy spending time around animals, and appreciate nature 🌿. 
 - 🎵 I enjoy music and dance as forms of expression. 
-#### *Curious fact* :mag_right:
-
-#### Where I'm From 🇪🇨
-
-<img align="left" alt="Ecuador" src="https://media.giphy.com/media/4ZrTyoKgxigf6SUup2/giphy.gif" width="430" height="250" />
-
-Ecuador 🇪🇨 — latitude 0° 0′ 0″ — known as the Middle of the World and one of the most biodiverse places on Earth.
-
-A small country with extraordinary natural and cultural diversity.
-
-<br clear="left"/>
 
 <br />
 
