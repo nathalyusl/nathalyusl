@@ -1,11 +1,11 @@
 # Diana Nathaly
 
-👩🏽‍💻📊 Junior Data Analyst |
+👩🏽‍💻 Junior Data Analyst |
 <a href="https://linkedin.com/in/diana-altamirano-usl">
 <img width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-Welcome to my data journey 👩🏽‍💻📊🌱
+Welcome to my data journey 🌱
 
 <br />
 
