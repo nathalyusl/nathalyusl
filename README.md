@@ -17,20 +17,23 @@
  ⚙️ Building Technical Skills       
 ```
 
-# Academic Path & Analytical Interests
+### Academic Path & Analytical Interests
 
+```python
 education = {
     "Bachelor Degree": "Foreign Trade & International Business",
     "Master Program": "Business Intelligence & Data Science",
-    "current_status": "In progress"
+    "status": "In progress"
 }
 
-interests = {
-    "graph_analysis": "Neo4j",
-    "analytical_focus": "Pattern discovery",
-    "data_focus": "Data analysis & visualization",
-    "motivation": "Finding insights for better decisions"
-}
+analytical_interests = [
+    "Network analysis (Neo4j)",
+    "Pattern discovery",
+    "Exploratory data analysis",
+    "Data visualization",
+    "Insight generation"
+]
+```
 
 #### **Personal facts** 💭
 ```text
