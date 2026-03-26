@@ -21,11 +21,11 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 
 #### **Personal facts** 💭**
 ```text
-- 📚 I run a small business focused on giving books a second life through the Amazon & E-bay platform.
-- 🌱 Currently learning data analytics and improving my technical English.
-- 🤖 Interested in AI and data-driven technologies.
-- 🐱  I love cats and dogs, enjoy spending time around animals, and appreciate nature 🌿. 
-- 🎵 I enjoy music and dance as forms of expression. 
+📚 I run a small business focused on giving books a second life through the Amazon & E-bay platform.
+🌱 Currently learning data analytics and improving my technical English.
+🤖 Interested in AI and data-driven technologies.
+🐱  I love cats and dogs, enjoy spending time around animals, and appreciate nature 🌿. 
+🎵 I enjoy music and dance as forms of expression. 
 ```
 
 #### **Technical Competency Tracker** 📊 
