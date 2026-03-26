@@ -1,4 +1,6 @@
-# Diana Nathaly 👩‍💻
+# Diana Nathaly 
+👩🏽‍💻📊 Junior Data Analyst
+Welcome to my data journey
 <a href="https://linkedin.com/in/diana-altamirano-usl">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
 <a href="https://open.spotify.com/user/nathalyusl">
