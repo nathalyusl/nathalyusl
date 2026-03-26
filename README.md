@@ -28,7 +28,6 @@ Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently base
 - 🎵 I enjoy music and dance as forms of expression. 
 ```
 <br />
-
 #### **Technical Competency Tracker** 📊 
 
 ```text
