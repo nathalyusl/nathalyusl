@@ -5,7 +5,9 @@
 <a href="https://linkedin.com/in/diana-altamirano-usl">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://open.spotify.com/user/nathalyusl">
+<img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 <br />
 
 <br />
