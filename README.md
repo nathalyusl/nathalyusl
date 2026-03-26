@@ -19,16 +19,15 @@
 
 Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently based in the United States 🇺🇸. I am an aspiring Data Analyst and a woman passionate about technology and data 👩‍💻. I have a background in Foreign Trade ✈️ and I am currently developing my skills in data analytics. I’m especially interested in discovering patterns, finding meaningful insights, and understanding how data can support better decision-making. If we share similar interests, I would love to connect ✨.
 
+```text
 #### **Personal facts** 💭
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="200" />
 
 - 📚 I run a small business focused on giving books a second life through the Amazon & E-bay platform.
 - 🌱 Currently learning data analytics and improving my technical English.
 - 🤖 Interested in AI and data-driven technologies.
 - 🐱  I love cats and dogs, enjoy spending time around animals, and appreciate nature 🌿. 
 - 🎵 I enjoy music and dance as forms of expression. 
-
+```
 <br />
 
 #### **Technical Competency Tracker** 📊 
