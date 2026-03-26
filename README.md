@@ -2,7 +2,7 @@
 
 👩🏽‍💻 Junior Data Analyst |
 <a href="https://linkedin.com/in/diana-altamirano-usl">
-<img width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 Welcome to my data journey 🌱
