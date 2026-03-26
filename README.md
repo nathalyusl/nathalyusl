@@ -1,11 +1,15 @@
-# Diana Nathaly 
-👩🏽‍💻📊 Junior Data Analyst | 
+# Diana Nathaly
+
+👩🏽‍💻📊 Junior Data Analyst  
+
 <a href="https://linkedin.com/in/diana-altamirano-usl">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
-<a href="https://open.spotify.com/user/nathalyusl">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="./img/spotify-icon.svg" />
+<img width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
-Welcome to my data journey
+<a href="https://open.spotify.com/user/nathalyusl">
+<img width="22px" src="https://img.icons8.com/color/48/spotify.png"/>
+</a>
+
+Welcome — building my path in data 👩🏽‍💻📊🌱
 <br />
 
 <br />
