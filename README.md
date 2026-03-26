@@ -17,7 +17,7 @@
  ⚙️ Building Technical Skills       
 ```
 
-### Academic Path & Analytical Interests
+#### Academic Path & Analytical Interests
 
 ```python
 education = {
@@ -26,12 +26,13 @@ education = {
     "status": "In progress"
 }
 
-analytical_interests = [
-    "Network analysis (Neo4j)",
+interests = [
+    "Graph analytics (Neo4j)",
     "Pattern discovery",
     "Exploratory data analysis",
     "Data visualization",
-    "Insight generation"
+    "Data storytelling",
+    "Process automation "
 ]
 ```
 
