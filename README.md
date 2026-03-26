@@ -1,6 +1,7 @@
 # Diana Nathaly
 
-👩🏽‍💻 Junior Data Analyst |
+👩🏽‍💻 Junior Data Analyst 
+
 <a href="https://linkedin.com/in/diana-altamirano-usl">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
