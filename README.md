@@ -44,7 +44,7 @@ interests = [
 📚 Running a small online book business.
 🐱 Animal lover.
 🌿 Nature appreciation.
-📷 Black & white photography 'atemporal' -> 
+📷 Black & white photography. 
 🎵 Music and dance as creative expression.
 ```
 
