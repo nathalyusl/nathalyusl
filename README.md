@@ -17,7 +17,20 @@
  ⚙️ Building Technical Skills       
 ```
 
-Welcome to my profile! I’m originally from Ecuador 🇪🇨 and currently based in the United States 🇺🇸. I am an aspiring Data Analyst and a woman passionate about technology and data 👩‍💻. I have a background in Foreign Trade ✈️ and I am currently developing my skills in data analytics. I’m especially interested in discovering patterns, finding meaningful insights, and understanding how data can support better decision-making. If we share similar interests, I would love to connect ✨.
+# Academic Path & Analytical Interests
+
+education = {
+    "Bachelor Degree": "Foreign Trade & International Business",
+    "Master Program": "Business Intelligence & Data Science",
+    "current_status": "In progress"
+}
+
+interests = {
+    "graph_analysis": "Neo4j",
+    "analytical_focus": "Pattern discovery",
+    "data_focus": "Data analysis & visualization",
+    "motivation": "Finding insights for better decisions"
+}
 
 #### **Personal facts** 💭
 ```text
