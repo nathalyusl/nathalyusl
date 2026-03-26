@@ -1,8 +1,8 @@
 # Hello! I'm Diana Nathaly👋
 <a href="https://linkedin.com/in/diana-altamirano-usl">
-  <img align="right" alt="Abhishek's LinkedIN" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
+  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>
 <a href="https://open.spotify.com/user/nathalyusl">
-  <img align="right" alt="Abhishek's Spotify" width="22px" src="./img/spotify-icon.svg" />
+  <img align="center" alt="Abhishek's Spotify" width="22px" src="./img/spotify-icon.svg" />
 </a>
 
 <br />
